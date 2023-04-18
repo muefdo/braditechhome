@@ -7,6 +7,8 @@ Her ekranda test ettim ve mobile responsive hale getirdim. Aşağıda örnek res
 Link: https://bradi.tech/
 
 
+Link2:https://bradi-tech-home-page.vercel.app/
+
 Masaüstü Görünüm:
 ![HomePage](https://user-images.githubusercontent.com/112949938/232906102-8becaecb-aea6-4d35-89d2-1b21cf29f4f8.PNG)
 
