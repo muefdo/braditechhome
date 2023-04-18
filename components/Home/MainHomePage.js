@@ -12,7 +12,7 @@ const MainHomePage = () => {
         <div className={styles.ContentContainer}>
           <Link href="https://my.bradi.tech/" legacyBehavior>
             <a>
-              <Image src={tech} className={styles.Image} width={175} height={315} />
+              <Image src={tech} alt="bradi.tech" className={styles.Image} width={175} height={315} />
             </a>
           </Link>
         </div>
@@ -22,7 +22,7 @@ const MainHomePage = () => {
         <div className={styles.ContentContainer}>
           <Link href="https://www.bradi.cloud/" legacyBehavior>
             <a>
-              <Image src={cloud} className={styles.Image} width={175} height={315} />
+              <Image src={cloud} alt="bradi.cloud" className={styles.Image} width={175} height={315} />
             </a>
           </Link>
         </div>
