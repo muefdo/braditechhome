@@ -1,5 +1,12 @@
-CicekSepeti com'un giriş ekranından esinlenerek html ve CSS kullanarak yaptığım web development alanında geliştirmeler yapan websitemin giriş ekranı her ekranda test ettim ve mobile responsive hale getirdim. Aşağıda örnek resimleri paylaşıyorum:
+CicekSepeti com'un giriş ekranından esinlenerek html ve CSS kullanarak yaptığım web development alanında geliştirmeler yapan websitemin giriş ekranı.
+
+Her ekranda test ettim ve mobile responsive hale getirdim. Aşağıda örnek resimleri paylaşıyorum:
+
+
+
 Link: https://bradi.tech/
+
+
 Masaüstü Görünüm:
 ![HomePage](https://user-images.githubusercontent.com/112949938/232906102-8becaecb-aea6-4d35-89d2-1b21cf29f4f8.PNG)
 
